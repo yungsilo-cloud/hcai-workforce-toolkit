@@ -1,0 +1,10 @@
+{
+  "name": "hcai-workforce-toolkit",
+  "displayName": "Workforce Development Toolkit by HCAI",
+  "version": "1.0.0",
+  "description": "Practical HR and operations workflows: build a skills framework for a role, plan a hiring wave, draft a role-based onboarding plan, and diagnose whether underperformance is a skills, motivation or system problem.",
+  "author": { "name": "Human Capital Advancement Initiative (HCAI)", "url": "https://thehcai.org" },
+  "homepage": "https://thehcai.org",
+  "license": "MIT",
+  "keywords": ["hr", "talent-acquisition", "onboarding", "skills-based-hiring", "workforce-planning", "learning-and-development"]
+}
